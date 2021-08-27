@@ -1,0 +1,95 @@
+*{margin: 0; padding: 0;}
+
+body{
+background-color: darkgreen;
+font-family: arial, helvetica, sans-serif;
+font-size: 12px;
+}
+
+#div_logo{
+	height: 80px;
+	width: 800px;
+	margin: auto;
+}
+
+#div_menu{
+	height:auto;
+	width: 800px;
+	background-color: cadetblue;
+	margin: auto;
+}
+
+.textmenu{font-size: 24px;
+text-align: center;
+font-style: oblique;
+color: white;
+}
+
+.link_prod{font-size: 15px;
+text-align: center;
+font-style: oblique;
+color:white;
+text-decoration: none;
+}
+
+
+#div_conteudo{
+	margin: auto;
+	width: 800px;
+	height:400px;
+	background-color: white;
+}
+
+#div_conteudo2{
+	margin: auto;
+	width: 800px;
+	height:365px;
+	
+}
+
+#div_welcome{
+	float: left;
+	width: 390px;
+	height: 350px;
+	margin: 5px;
+}
+
+#div_modelo{
+	float: left;
+	width: 390px;
+	height: 350px;
+	margin: 5px;
+}
+
+#div_rodape{
+	height: 30px;
+	width: 794px;
+	margin: auto;
+	background-color:white;
+	border-style: solid;
+	border-color: #009B00;
+	}
+
+#div_social{
+	float: right;
+	height: auto;
+	width: auto;
+}
+
+#div_produto{
+	width: 100px;
+	height: 160px;
+	background-color:#006400;
+	float: left;
+	margin: 5px;
+}
+
+.img_mini_prod{
+	width: 100px;
+	height: 120px;
+}
+
+.img_prod{
+	width: 300px;
+	height: 250px;
+}
